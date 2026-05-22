@@ -1,4 +1,4 @@
-![TikTok Banner](Images/readme_banner.png)
+![TikTok Banner](Images/tiktok_banner.png)
 
 *Can a machine tell the difference between a claim and an opinion at scale?*
 
