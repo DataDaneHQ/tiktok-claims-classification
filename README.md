@@ -6,7 +6,7 @@
 
 TikTok's moderation team was drowning in user reports. Every report needed to be reviewed — but not all reports are equal. A user claiming a video contains misinformation is fundamentally different from a user sharing an opinion. Treating them the same wastes moderation resources and slows down the decisions that actually matter.
 
-Developed as part of the Google Advanced Data Analytics Professional Certificate, the goal was to build a machine learning model that could automatically classify user reports as claims or opinions — accurately, at scale, and with high enough recall that genuine claims weren't slipping through undetected. 
+Developed as part of the Google Data Analytics Professional Certificate, the goal was to build a machine learning model that could automatically classify user reports as claims or opinions — accurately, at scale, and with high enough recall that genuine claims weren't slipping through undetected. 
 
 I worked through the full analytics lifecycle: initial EDA, hypothesis testing, logistic regression for feature exploration, and finally Random Forest and XGBoost for the classification task. Random Forest emerged as the clear winner.
 
